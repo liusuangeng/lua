@@ -1,3 +1,6 @@
 *回滚到某个版本
 git reset --hard e377f60e28c8b84158
 git push -f origin master
+
+*合并分支
+
