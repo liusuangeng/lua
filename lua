@@ -14,3 +14,5 @@ clone(t)
 
 UIView.super.onCreate()
 
+#INF #IND NaN
+
